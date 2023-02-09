@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2b3ebe1-5e0a-469c-bcf4-9903cb3a8429",
+    "Name": "UsrCalculateAveragePriceProcessmydepository1",
+    "ModifiedOnUtc": "\/Date(1675858608000)\/",
+    "Parent": {
+      "UId": "198e5df6-d782-44fd-a1d7-4377a1d6fcb8",
+      "Name": "UsrCalculateAveragePriceProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrCalculateAveragePriceProcess",
+    "DependsOn": []
+  }
+}

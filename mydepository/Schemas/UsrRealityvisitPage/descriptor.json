@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "010ebbc3-2c31-4132-91dd-9aed7a15828e",
+    "Name": "UsrRealityvisitPage",
+    "ModifiedOnUtc": "\/Date(1675424799000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality visit edit page"
+  }
+}

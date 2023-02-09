@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4a558bd9-9427-4864-849b-0c84b0c72316",
+    "Name": "UsrReality8_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1675412224000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Reality8 form page (Business rules)",
+    "DependsOn": []
+  }
+}

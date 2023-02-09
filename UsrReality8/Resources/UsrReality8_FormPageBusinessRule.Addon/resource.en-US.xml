@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.4593ba2a-b34e-8317-b2d6-df2f86f2f970.Caption" Value="Price 100 HIDE" />
+			<Item Name="AddonConfig.Rules.c4013491-9925-1a5e-349a-18810c917a91.Caption" Value="Price 1000" />
+			<Item Name="Caption" Value="Reality8 form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

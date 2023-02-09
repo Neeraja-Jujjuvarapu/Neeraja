@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reality8 Visit form edit page" />
+			<Item Name="LocalizableStrings.addRecord_0so0vx6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_7mg1s6e_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_i0fv77x_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_uybhiqj_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

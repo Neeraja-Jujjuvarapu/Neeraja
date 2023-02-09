@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1a5a3633-1295-4179-9eb4-ea208f92e2aa",
+    "Name": "UsrReality8Visitformeditpage",
+    "ModifiedOnUtc": "\/Date(1675439540000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality8 Visit form edit page"
+  }
+}

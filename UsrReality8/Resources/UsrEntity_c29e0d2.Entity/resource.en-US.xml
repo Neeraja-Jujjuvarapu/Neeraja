@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Reality8 Visit" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Visit8 Date/Time " />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrParentReality8.Caption" Value="Parent Reality8" />
+			<Item Name="Columns.UsrParentRealty8.Caption" Value="ParentRealty8" />
+			<Item Name="Columns.UsrPotentialCustomer.Caption" Value="Potential Customer" />
+		</Items>
+	</Group>
+</Resources>
